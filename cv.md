@@ -6,6 +6,7 @@
 - E-mail: m.snischuk@gmail.com
 - GitHub: [snischuk](https://github.com/snischuk)
 - Telegram: [@max_snischuk](https://t.me/max_snischuk)
+- Discord: @snischuk
   
 #### About me:
 Hi! I'm a passionate front-end developer who can't go a day without code. I'm inspired by a thirst for knowledge and a desire for continuous improvement. Let's join forces and create awesome projects together!
