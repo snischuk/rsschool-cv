@@ -107,6 +107,7 @@ body {
 a {
   color: #145da0;
   text-decoration: none;
+  transition: color 0.3s ease;
 }
 
 a:hover {
@@ -141,6 +142,7 @@ code {
 
 .footer a {
   color: #ffffff;
+  transition: color 0.3s ease;
 }
 
 .footer a:hover {
