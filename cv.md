@@ -1,3 +1,4 @@
+![Avatar](https://i.ibb.co/1fB6YYVX/avatar.jpg)
 # Max Snischuk
 ### Front-end developer
 
