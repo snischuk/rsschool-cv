@@ -1,1 +1,1 @@
-# rsschool-cv
+[CV deploy](https://snischuk.github.io/rsschool-cv/cv)
